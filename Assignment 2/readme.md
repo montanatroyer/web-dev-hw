@@ -3,4 +3,4 @@
 
 [Responses](web-dev-hw/assignment-2/responses.txt)
 
-[Image](./Images/imageofdesktop.png)
+![Image](./Images/imageofdesktop.png)
