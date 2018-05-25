@@ -1,0 +1,4 @@
+Bits are sent by light through fiber optic cables.
+An IP address is a combination of numbers that is unique to that web address. What we, the internet users, see is the DNS, such as www.gmail.com. The computer looks up the domain name to find the IP Address, which connects the computer to the internet destination.
+A cookie is an extra piece of data attached to the IP address that allows the computer you're logging into to remember who you are.
+The three basic parts of a URL is the protocol: Https:, the domain name: www.google.com, and the path. /images/cats.
