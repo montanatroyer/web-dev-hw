@@ -8,4 +8,4 @@ Third party hosting is a lot quicker and simpler.
 
 Everything went pretty smoothly for this assignment I thought. I used my last project to remind myself what the 4 main document elements are. I used your visuals in the lesson to guide me through creating the div elements. For the third party hosting part, it took me a bit to find the embedded information. I didn't understand that at first, but after watching your tutorial video several times, I found it.
 
-![Image](./desktopimage.jpeg) 
+![Image](./Images/desktopimage) 
