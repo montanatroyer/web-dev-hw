@@ -6,9 +6,46 @@
     <meta name="description" content="Contact">
     <meta name="author" content="Montana Troyer">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    body {
+ background-color: blue;
+ text-align: left;
+}
+.About p, pre{
+   font-size:medium; font-family:times;
+  }
+
+.container {
+ background-color: white;
+ width: 600px;
+ margin: auto;
+ padding: 20px;
+ border: 1px solid black;
+}
+  </style>
   </head>
 
   <body>
+      <nav>
+        <a href="../index.html">Home</a>
+        <a href="./about.html">About</a>
+        <a href="./contact.html">Contact</a>
+      </nav>
+    <form>
+    <fieldset>
+      <legend> Contact Me </legend>
+    <h3>Name</h3>
+    <input type="text" name="username" id="username_input" placeholder="Name" />
+    <p></p>
+    <h3>Email</h3>
+    <input type="text" name="email" id="email" placeholder="Email" />
+    <h3>Questions</h3>
+    <form action="http://www.example.com/contact" method="get" id="email" class="basic forms" placeholder="Questions" />
+    <p></p>
 
+    <textarea name="questions" id="textarea"></textarea>
+    <p></p>
+    <input type="submit" value="Submit" />
+  </fieldset>
   </body>
 </html>
