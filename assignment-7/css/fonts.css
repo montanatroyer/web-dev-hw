@@ -1,0 +1,48 @@
+/*fallback fonts*/
+@import url(<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">);
+
+@font-face {
+  font-family: 'Great Vibes' cursive;
+  src: url('../fonts/GreatVibes-Regular.tff')
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Roboto', sans-serif',
+  'open-sans';
+  }
+
+  /*title*/
+    h1, h2 {
+      color: #937b09;
+      font-family: 'dancing-script', cursive',
+      'Great Vibes' cursive;
+    }
+
+  /*Chocolate*/
+    b {
+      color: #ff7f24;
+      font-size: 1.5em;
+      font-family: 'Shrikhand', cursive',
+      'Great Vibes' cursive;
+      position: absolute;
+      bottom: 320;
+      left: 70;
+    }
+
+    .story {
+      color: white;
+       font-family: serif;
+       font-size: 1em;
+       margin: 0.5em;
+       text-indent: 1.5em;
+       line-height: 1.5em;
+    }
+
+    #part-one p::first-letter {
+       font-family: 'Kumar One Outline', cursive',
+       'Great Vibes' cursive;
+       font-size: 4em;
+       font-weight: bold;
+    }

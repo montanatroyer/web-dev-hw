@@ -1,0 +1,68 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  }
+
+  body {
+    background-color: #403f3b;
+  }
+
+  /*title*/
+    h1, h2 {
+      color: #937b09;
+      font-family: 'dancing-script', cursive;
+    }
+
+/*Chocolate*/
+b {
+  color: #ff7f24;
+  font-size: 1.5em;
+  font-family: 'Shrikhand', cursive;
+  position: absolute;
+  bottom: 320;
+  left: 70;
+}
+
+.divider {
+  border-bottom: 3px solid #937b09;
+  width: 75%;
+  margin: 2em auto;
+}
+
+.story {
+  color: white;
+   font-family: serif;
+   font-size: 1em;
+   margin: 0.5em;
+   text-indent: 1.5em;
+   line-height: 1.5em;
+}
+
+#part-one p::first-letter {
+   font-family: 'Kumar One Outline', cursive;
+   font-size: 4em;
+   font-weight: bold;
+}
+
+/* Button */
+#button-container {
+  width: 12em;
+  height: 3.5em;
+  margin: auto;
+  background-color: white;
+  opacity: 0.6;
+}
+.button p {
+  color: #937b09;
+  font-family: 'dancing-script', cursive;
+  font-size: 2em;
+}
+
+a:hover p {
+   color: #403f3b;
+   font-style: italic;
+}
+
+a:active p {
+   color: #996e3e;
+   text-decoration: bold;
+}

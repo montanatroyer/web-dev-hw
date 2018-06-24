@@ -1,0 +1,111 @@
+body {
+  background-color: white;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+/* Text */
+h1 {
+  font-family: baskerville;
+}
+
+p {
+  color: red;
+}
+
+.square {
+  width: 50%;
+  height: 50%;
+}
+
+.text-container {
+  border: 2px solid black;
+}
+
+/* Colored Boxes */
+#red {
+  background-color: #b3240c;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+#orange {
+  background-color: #f56f0c;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+#purple {
+  background-color: #510458;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+#blue {
+  background-color: #200676;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+img#eighties {
+  height:100px;
+  position: absolute;
+  top: 120px;
+  left: -50px;
+}
+img#triangles {
+  height:100px;
+  position: absolute;
+  bottom: 120px;
+  right: -50px;
+}
+
+.square>img {
+  height: inherit;
+}
+/* Album Covers */
+#albumcovers {
+  height: 65%;
+  width: 55%;
+}
+.align-left {
+  position: absolute;
+  bottom: 10;
+  left: 10px;
+}
+.align-right {
+  position: absolute;
+  bottom: 10;
+  right: 10px;
+}
+.align-right-bottom {
+  position: absolute;
+  bottom: 10;
+  right: 10px;
+}
+.align-right-top {
+  position: absolute;
+  top: 10;
+  right: 10px;
+}
+.align-left-top {
+  position: absolute;
+  top: 10;
+  left: 10px;
+}
+
+.text-container {
+  background-color: white;
+  width: 400px;
+  opacity: 0.8;
+  position: absolute;
+
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h1 p {
+  background-color:black;
+  color: white;
+  padding: 5px;
+}
