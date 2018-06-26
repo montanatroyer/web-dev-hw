@@ -1,6 +1,6 @@
 # Assignment 7 Read Me
 
-Princess Bride is an old fashion style movie with sword fights and horseback riding, so I wanted something that would fit that. I looked different book covers and fonts and chose a wavy font. I also wanted a font that was easily readable for the text, but still a little old fashioned. The fonts I ended up with were Roboto and Dancing Script.
+Princess Bride is an old fashioned style movie with sword fights and horseback riding, so I wanted something that would fit that. I looked at different book covers and fonts and chose a wavy font. I also wanted a font that was easily readable for the text, but still a little old fashioned. The fonts I ended up with were Roboto and Dancing Script.
 
 System fonts are fonts already on the device or system being used. Web fonts are fonts that are hosted on a server. Web-safe fonts are fonts that the designer can know will be available by the system.
 
