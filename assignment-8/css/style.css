@@ -1,0 +1,71 @@
+* {
+  font-family: Arial;
+  z-index: -4;
+  }
+h1 {
+  font-family: fantasy;
+}
+
+#image {
+  border: 1px solid black;
+}
+.container {
+ background-color: #770707;
+ width: 800;
+ margin: 0px 275px;
+ padding: 20px;
+ border: 1px solid black;
+ z-index: 0;
+
+}
+
+body {
+background-image: url("../bamboo.jpg");
+background-color: #ce2029;
+text-align: center;
+}
+
+a {
+  color: white;
+}
+
+#eggrolls {
+  position: absolute;
+  top: 900;
+  left: 300;
+  z-index: 1;
+  opacity: 0.8;
+}
+
+#chicken {
+  position: absolute;
+  top: 750;
+  left: 800;
+  z-index: 1;
+  opacity: 0.8;
+}
+
+#phonoodles {
+  position: absolute;
+  top: 690;
+  left: 300;
+  z-index: 1;
+  opacity: 0.9;
+}
+
+#curry {
+  z-index: 0;
+}
+
+li {
+  font-family: serif;
+  color: white;
+}
+
+a {
+  color: white;
+}
+nav:hover a {
+   color: #403f3b;
+   font-style: italic;
+}
