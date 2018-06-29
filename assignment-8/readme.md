@@ -10,4 +10,7 @@ I started out taking this project seriously, but the website ended up super bori
 
 The main problems I had were changing the background, adding an outline to the containers and arranging the images. The way I found most helpful to solve these problems were looking up videos and watching other people do them. It was very helpful for me to watch other people use the program and then follow their steps.
 
+I had a problem with arranging the pictures too where, when I open the site in my file on my computer it looks fine. However, when I downloaded the site and opened it as https://montanatroyer.github.io/web-dev-hw/assignment-8/
+the images are NOT how they were supposed to be positioned.
+
 ![image](./desktopimage.jpg)
